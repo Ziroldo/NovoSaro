@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.img_menu {
+    cursor: pointer;
+}
+
+
+g {
+    cursor: pointer;
+}
+
+
+/*SubSessões de perguntas*/
+
+.sub_visao {
+    margin-top: 12px;
+    color: #0076FF;
+}
+
+.sub_infraestrutura {
+    margin-top: 12px;
+    color: #0076FF;
+}
+
+.sub_gestao {
+    margin-top: 12px;
+    color: #0076FF;
+}
+
+.sub_processo {
+    margin-top: 12px;
+    color: #0076FF;
+}
+
+.sub_resultado {
+    margin-top: 12px;
+    color: #0076FF;
+}
+
+
+/*Botões*/
+.btn-sub_visao {
+    margin-top: 12px;
+    background-color: #0076FF;
+    color: aliceblue;
+    font-weight: bold;
+}
+
+.btn-sub_infraestrutura {
+    margin-top: 12px;
+    background-color: #0076FF;
+    color: aliceblue;
+    font-weight: bold;
+}
+
+.btn-sub_gestao {
+    margin-top: 12px;
+    background-color: #0076FF;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+.btn-sub_processo {
+    margin-top: 12px;
+    background-color: #0076FF;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+.btn-sub_resultado {
+    margin-top: 12px;
+    background-color: #0076FF;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+/*Botões*/
+/*.collapsing{*/
+/*transition-duration: 1.2s;*/
+/*}*/
+/*SubSessões de perguntas*/
